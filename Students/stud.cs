@@ -13,10 +13,6 @@ namespace Students {
         private string Birthday;
         private double ball;
 
-
-
-
-
         public double Mark
         {
             get { return ball; }

@@ -11,23 +11,6 @@ namespace Students
     {
         static void Main(string[] args)
         {
-            /*stud keyela = new stud();
-            stud oleg = new stud();
-
-            keyela.Surname = "KEYELA";
-            keyela.Name = "Lambert";
-            oleg.Surname = "Ivanov";
-            oleg.Name = "Oleg";
-            oleg.Mark = 4.5;
-            oleg.Birth = "11 12 1999";
-
-
-            //Console.WriteLine(keyela.Surname);
-            //Console.WriteLine(oleg.Name);
-            Console.WriteLine(oleg.Mark);
-            Console.WriteLine(oleg.Birth);
-            */
-
             Console.Write("Number of students: ");
             int numberStudent = Convert.ToInt32(Console.ReadLine());
 
